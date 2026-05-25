@@ -1,6 +1,8 @@
 # Claude Code Structure
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Viniciusbm84/claude-code-structure/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Viniciusbm84/claude-code-structure?style=flat)](https://github.com/Viniciusbm84/claude-code-structure/stargazers)
+[![Forks](https://img.shields.io/github/forks/Viniciusbm84/claude-code-structure?style=flat)](https://github.com/Viniciusbm84/claude-code-structure/forks)
 
 A production-ready project scaffold for [Claude Code](https://claude.ai/code) with custom commands (skills), subagents, hooks, and a spec-driven development workflow.
 
